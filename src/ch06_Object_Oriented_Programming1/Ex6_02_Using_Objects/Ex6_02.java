@@ -1,6 +1,6 @@
-package ch06_객체지향_프로그래밍1.Ex6_02_객체의_사용;
+package ch06_Object_Oriented_Programming1.Ex6_02_Using_Objects;
 
-import ch06_객체지향_프로그래밍1.Ex6_01_객체의_생성과_사용.Tv;
+import ch06_Object_Oriented_Programming1.Ex6_01_Creating_and_Using_Objects.Tv;
 
 class Ex6_02 { // 객체마다 별도의 공간을 갖는다는 것을 알려주기 위한 예제
     public static void main(String[] args) {
