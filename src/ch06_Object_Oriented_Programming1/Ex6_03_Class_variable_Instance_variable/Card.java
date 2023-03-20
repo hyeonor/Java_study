@@ -1,4 +1,4 @@
-package ch06_객체지향_프로그래밍1.Ex6_03_클래스변수_인스턴스변수;
+package ch06_Object_Oriented_Programming1.Ex6_03_Class_variable_Instance_variable;
 
 class Card {
     String kind;
