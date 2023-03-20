@@ -1,4 +1,4 @@
-package ch06_객체지향_프로그래밍1.Ex6_01_객체의_생성과_사용;
+package ch06_Object_Oriented_Programming1.Ex6_01_Creating_and_Using_Objects;
 
 class Ex6_01 {
     public static void main(String[] args) {
