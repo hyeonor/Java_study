@@ -1,4 +1,4 @@
-package ch07_Object_Oriented_Programming2.Test05_Access_Modifier2;
+package ch07_Object_Oriented_Programming2.Test05_Access_Modifier;
 
 import ch07_Object_Oriented_Programming2.Test04_Access_Modifier.Parent;
 
