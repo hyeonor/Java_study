@@ -9,7 +9,7 @@ package ch08_Exception_Handling;
    throw e;
  */
 
-class Ex8_6_throw {
+class Ex8_06_throw {
     public static void main(String[] args) {
         try {
             Exception e = new Exception("고의로 발생시켰음.");
