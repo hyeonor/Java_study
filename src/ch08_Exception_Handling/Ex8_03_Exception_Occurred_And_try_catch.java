@@ -1,6 +1,6 @@
 package ch08_Exception_Handling;
 
-class Ex8_3_Exception_Occurred_And_try_catch {
+class Ex8_03_Exception_Occurred_And_try_catch {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(2);
