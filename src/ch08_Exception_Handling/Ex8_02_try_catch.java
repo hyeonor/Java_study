@@ -11,7 +11,7 @@ package ch08_Exception_Handling;
     1). catch 블럭을 거치지 않고 전체 try-catch 문을 빠져나가서 수행을 계속한다.
  */
 
-class Ex8_2_try_catch { // 1번에 해당
+class Ex8_02_try_catch { // 1번에 해당
     public static void main(String[] args) {
         System.out.println(1);
         try {
