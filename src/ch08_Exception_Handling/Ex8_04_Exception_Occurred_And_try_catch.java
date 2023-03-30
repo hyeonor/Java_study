@@ -7,7 +7,7 @@ package ch08_Exception_Handling;
 - Exception이 선언된 catch 블럭은 모든 예외 처리(마지막 catch 블럭)
  */
 
-class Ex8_4_Exception_Occurred_And_try_catch {
+class Ex8_04_Exception_Occurred_And_try_catch {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(2);
