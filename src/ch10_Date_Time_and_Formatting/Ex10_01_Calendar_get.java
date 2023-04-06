@@ -2,7 +2,7 @@ package ch10_Date_Time_and_Formatting;
 
 import java.util.Calendar;
 
-class Ex10_1_Calendar_get {
+class Ex10_01_Calendar_get {
     public static void main(String[] args) {  // 기본적으로 현재날짜와 시간으로 설정된다.
         Calendar today = Calendar.getInstance();
         System.out.println("이 해의 년도 : " + today.get(Calendar.YEAR));
