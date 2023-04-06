@@ -2,7 +2,7 @@ package ch10_Date_Time_and_Formatting;
 
 import java.util.Calendar;
 
-class Ex10_3_Calendar_getTimeInMillis {
+class Ex10_03_Calendar_getTimeInMillis {
     public static void main(String[] args) {
         final int[] TIME_UNIT = {3600, 60, 1}; // 큰 단위를 앞에 놓는다.
         final String[] TIME_UNIT_NAME = {"시간 ", "분 ", "초 "};
