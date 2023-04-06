@@ -2,7 +2,7 @@ package ch10_Date_Time_and_Formatting;
 
 import java.util.Calendar;
 
-class Ex10_2_Calendar_set {
+class Ex10_02_Calendar_set {
     public static void main(String[] args) {
         // 요일은 1부터 시작하기 때문에, DAY_OF_WEEK[0]은 비워두었다.
         final String[] DAY_OF_WEEK = {"", "일", "월", "화", "수", "목", "금", "토"};
