@@ -2,7 +2,7 @@ package ch10_Date_Time_and_Formatting;
 
 import java.util.Calendar;
 
-class Ex10_4_Calendar_add_roll {
+class Ex10_04_Calendar_add_roll {
     public static void main(String[] args) {
         Calendar date = Calendar.getInstance();
         date.set(2023, 7, 31); // 2023년 8월 31일
