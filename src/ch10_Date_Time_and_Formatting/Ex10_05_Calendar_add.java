@@ -2,10 +2,10 @@ package ch10_Date_Time_and_Formatting;
 
 import java.util.Calendar;
 
-class Ex10_5_Calendar_add {
+class Ex10_05_Calendar_add {
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage : java Ex10_5_Calendar_add 2019 9");
+            System.out.println("Usage : java Ex10_05_Calendar_add 2019 9");
             return;
         }
 
