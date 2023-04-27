@@ -1,4 +1,4 @@
-package ch12_Generics_Enum_Annotation;
+package ch12_Generic_Enum_Annotation;
 
 import java.util.*;
 
@@ -6,7 +6,7 @@ class Product {}
 class Tv extends Product {}
 class Audio extends Product {}
 
-class Ex12_01_Generics {
+class Ex12_01_Generic {
     public static void main(String[] args) {
         ArrayList<Product> productList = new ArrayList<Product>();
         ArrayList<Tv>      tvList = new ArrayList<Tv>();
