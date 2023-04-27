@@ -1,9 +1,9 @@
-package ch12_Generics_Enum_Annotation;
+package ch12_Generic_Enum_Annotation;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-class Ex12_02_Generics_Iterator {
+class Ex12_02_Generic_Iterator {
     public static void main(String[] args) {
         ArrayList<Student> list = new ArrayList<Student>();
         list.add(new Student("자바왕", 1, 1));
